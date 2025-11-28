@@ -1,2 +1,2 @@
 # demoproject
-echo"Welcome"
+echo"Welcome home"
